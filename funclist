@@ -1,4 +1,10 @@
-_main: CODE, 1901 0 52
-__initialization: CODE, 1887 0 12
-_set_led: CODE, 1953 0 95
-Total: 159
+__stringtab: STRCODE, 1536 0 1
+_display_led: CODE, 1085 0 50
+_main: CODE, 1196 0 340
+__initialization: CODE, 2028 0 0
+___lwmod: CODE, 1135 0 61
+_grid: STRCODE, 1873 0 56
+_set_led: CODE, 1929 0 99
+_message: STRCODE, 1537 0 336
+___wmul: CODE, 1049 0 36
+Total: 979
