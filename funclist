@@ -1,9 +1,9 @@
 __stringtab: STRING, 2 0 1
-_display_led: CODE, 1669 0 25
-_main: CODE, 1789 0 259
-__initialization: CODE, 1642 0 0
-_grid: STRING, 85 0 56
-_set_led: CODE, 1694 0 95
-_message: STRING, 3 0 82
-___bmul: CODE, 1644 0 25
-Total: 543
+_display_led: CODE, 1613 0 21
+_main: CODE, 1754 0 294
+__initialization: CODE, 1611 0 0
+_grid: STRING, 52 0 56
+_set_led: CODE, 1659 0 95
+_message: STRING, 3 0 49
+___bmul: CODE, 1634 0 25
+Total: 541
